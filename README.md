@@ -1,5 +1,7 @@
 # Plant-Co.-YTD-and-PYTD-Performance-Dashboards
-Power BI
+This project allowed me to put my theoretical knowledge of Power BI into practical use. I worked exclusively within Power BI, using Power Query for all data transformation and cleaning - without relying on Excel or SQL. I developed calculated measures such as Year-to-Date (YTD) and Prior Year-to-Date (PYTD) for gross profit, quantity, and sales. These measures helped enhance the clarity and impact of the visualizations, making the insights more effective and easy to interpret.
+
+
 # Screenshots
 # Plant Co. Performance in 2023
 ## Gross Profit
@@ -10,6 +12,7 @@ Power BI
 
 ## Sales
 ![image](https://github.com/user-attachments/assets/d52225db-333d-432d-b570-d7c1865bbbed)
+
 
 # Plant Co. Performance in 2024
 ## Gross Profit
